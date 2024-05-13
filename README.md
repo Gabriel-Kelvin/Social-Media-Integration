@@ -2,13 +2,6 @@
 
 This app is developed to complete Task #5 of the Graduate Rotational Internship Program (GRIP) by [The Sparks Foundation](https://www.linkedin.com/company/the-sparks-foundation/mycompany/) 
 
-## App Demonstration : 
-
-
-https://user-images.githubusercontent.com/74460717/118690348-9a7b3a80-b825-11eb-81ea-a6b380e4891b.mp4
-
-
-
 ## Task #5 Social Media Integration:
 
 Create a mobile app, where a user can log in through at least two social media from such as Facebook and Google.
